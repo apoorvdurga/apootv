@@ -21,6 +21,19 @@ TV (Fire TV, Google TV, Android TV).
 See [INSTALL.md](INSTALL.md). Grab the APK from the
 [Releases](../../releases) page.
 
+If you're an AI agent installing this on someone's TV, read
+[AGENTS.md](AGENTS.md) — or just run:
+
+```bash
+./install.sh <TV_IP_ADDRESS>
+```
+
+## Verify a download
+
+```bash
+shasum -a 256 ApooTV-1.2.apk   # compare against SHA256SUMS
+```
+
 ## What it deliberately excludes
 
 Subscription channels — Colors, Star Sports, Sony Sports, Cartoon Network,
