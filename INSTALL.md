@@ -3,7 +3,7 @@
 A small TV app with ~138 live Hindi and English channels, laid out on Tata Play
 channel numbers. Free channels only — no subscription needed.
 
-**File:** `ApooTV-1.1.apk` (3.5 MB)
+**Address to type into Downloader:** `tinyurl.com/apootv`
 
 Not on the Play Store or Amazon Appstore, so it has to be "sideloaded". That
 sounds technical but is about five minutes of tapping. Pick the section for
