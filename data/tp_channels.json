@@ -1,0 +1,3974 @@
+[
+ {
+  "name": "10 TV",
+  "hd": false,
+  "number": 1467,
+  "price": 0.0
+ },
+ {
+  "name": "Zee 24 Ghanta",
+  "hd": false,
+  "number": 1362,
+  "price": 0.12
+ },
+ {
+  "name": "Zee 24 Taas",
+  "hd": false,
+  "number": 1259,
+  "price": 0.12
+ },
+ {
+  "name": "4TV News",
+  "hd": false,
+  "number": 1470,
+  "price": 0.0
+ },
+ {
+  "name": "ABC Australia",
+  "hd": false,
+  "number": 642,
+  "price": 0.0
+ },
+ {
+  "name": "ABN Andhra Jyothy",
+  "hd": false,
+  "number": 1461,
+  "price": 0.0
+ },
+ {
+  "name": "ABP Ananda",
+  "hd": false,
+  "number": 1360,
+  "price": 0.0
+ },
+ {
+  "name": "ABP Asmita",
+  "hd": false,
+  "number": 1728,
+  "price": 0.0
+ },
+ {
+  "name": "ABP News",
+  "hd": false,
+  "number": 504,
+  "price": 0.0
+ },
+ {
+  "name": "ANB News",
+  "hd": false,
+  "number": 1927,
+  "price": 0.0
+ },
+ {
+  "name": "APN News",
+  "hd": false,
+  "number": 542,
+  "price": 0.0
+ },
+ {
+  "name": "Al Jazeera",
+  "hd": false,
+  "number": 637,
+  "price": 0.0
+ },
+ {
+  "name": "Anaadi TV",
+  "hd": false,
+  "number": 1161,
+  "price": 0.0
+ },
+ {
+  "name": "Argus News",
+  "hd": false,
+  "number": 1780,
+  "price": 0.0
+ },
+ {
+  "name": "Asian News",
+  "hd": false,
+  "number": 1165,
+  "price": 0.0
+ },
+ {
+  "name": "Asianet News",
+  "hd": false,
+  "number": 1841,
+  "price": 0.0
+ },
+ {
+  "name": "Asianet Suvarna News",
+  "hd": false,
+  "number": 1656,
+  "price": 0.0
+ },
+ {
+  "name": "BRK News",
+  "hd": false,
+  "number": 1475,
+  "price": 0.0
+ },
+ {
+  "name": "BS TV",
+  "hd": false,
+  "number": 1170,
+  "price": 0.0
+ },
+ {
+  "name": "Bansal News",
+  "hd": false,
+  "number": 1154,
+  "price": 0.0
+ },
+ {
+  "name": "Bharat 24",
+  "hd": false,
+  "number": 531,
+  "price": 0.0
+ },
+ {
+  "name": "Bharat Express",
+  "hd": false,
+  "number": 535,
+  "price": 0.0
+ },
+ {
+  "name": "Bharat Samachar",
+  "hd": false,
+  "number": 559,
+  "price": 0.0
+ },
+ {
+  "name": "CNBC Awaaz",
+  "hd": false,
+  "number": 592,
+  "price": 0.12
+ },
+ {
+  "name": "CTVN AKD Plus",
+  "hd": false,
+  "number": 1369,
+  "price": 0.0
+ },
+ {
+  "name": "Calcutta News",
+  "hd": false,
+  "number": 1370,
+  "price": 0.0
+ },
+ {
+  "name": "Channel News Asia",
+  "hd": false,
+  "number": 638,
+  "price": 0.0
+ },
+ {
+  "name": "Chardikla Time TV",
+  "hd": false,
+  "number": 1945,
+  "price": 0.0
+ },
+ {
+  "name": "DD Arunprabha",
+  "hd": false,
+  "number": 1986,
+  "price": 0.0
+ },
+ {
+  "name": "DD Bangla",
+  "hd": false,
+  "number": 1379,
+  "price": 0.0
+ },
+ {
+  "name": "DD Bharati",
+  "hd": false,
+  "number": 1146,
+  "price": 0.0
+ },
+ {
+  "name": "DD Bihar",
+  "hd": false,
+  "number": 1148,
+  "price": 0.0
+ },
+ {
+  "name": "DD Chandana",
+  "hd": false,
+  "number": 1672,
+  "price": 0.0
+ },
+ {
+  "name": "DD Girnar",
+  "hd": false,
+  "number": 1739,
+  "price": 0.0
+ },
+ {
+  "name": "DD India HD",
+  "hd": false,
+  "number": 621,
+  "price": 0.0
+ },
+ {
+  "name": "DD India",
+  "hd": false,
+  "number": 622,
+  "price": 0.0
+ },
+ {
+  "name": "DD Jharkhand",
+  "hd": false,
+  "number": 1145,
+  "price": 0.0
+ },
+ {
+  "name": "DD Madhya Pradesh",
+  "hd": false,
+  "number": 1175,
+  "price": 0.0
+ },
+ {
+  "name": "DD Malayalam",
+  "hd": false,
+  "number": 1874,
+  "price": 0.0
+ },
+ {
+  "name": "DD Manipur",
+  "hd": false,
+  "number": 1987,
+  "price": 0.0
+ },
+ {
+  "name": "DD News HD",
+  "hd": false,
+  "number": 501,
+  "price": 0.0
+ },
+ {
+  "name": "DD News",
+  "hd": false,
+  "number": 502,
+  "price": 0.0
+ },
+ {
+  "name": "DD Odia",
+  "hd": false,
+  "number": 1785,
+  "price": 0.0
+ },
+ {
+  "name": "DD Punjabi",
+  "hd": false,
+  "number": 1938,
+  "price": 0.0
+ },
+ {
+  "name": "DD Rajasthan",
+  "hd": false,
+  "number": 1190,
+  "price": 0.0
+ },
+ {
+  "name": "DD Sahyadri",
+  "hd": false,
+  "number": 1274,
+  "price": 0.0
+ },
+ {
+  "name": "DD Saptagiri",
+  "hd": false,
+  "number": 1481,
+  "price": 0.0
+ },
+ {
+  "name": "DD Tamil",
+  "hd": false,
+  "number": 1578,
+  "price": 0.0
+ },
+ {
+  "name": "DD Uttar Pradesh",
+  "hd": false,
+  "number": 1147,
+  "price": 0.0
+ },
+ {
+  "name": "DD Yadagiri",
+  "hd": false,
+  "number": 1482,
+  "price": 0.0
+ },
+ {
+  "name": "DW",
+  "hd": false,
+  "number": 641,
+  "price": 0.0
+ },
+ {
+  "name": "DY 365",
+  "hd": false,
+  "number": 1970,
+  "price": 0.0
+ },
+ {
+  "name": "Daily Post Punjab Haryana Himachal",
+  "hd": false,
+  "number": 1933,
+  "price": 0.0
+ },
+ {
+  "name": "First India Rajasthan",
+  "hd": false,
+  "number": 1182,
+  "price": 0.0
+ },
+ {
+  "name": "France 24",
+  "hd": false,
+  "number": 639,
+  "price": 0.0
+ },
+ {
+  "name": "Freedom TV",
+  "hd": false,
+  "number": 1666,
+  "price": 0.0
+ },
+ {
+  "name": "Gujarat Samachar TV",
+  "hd": false,
+  "number": 1721,
+  "price": 0.0
+ },
+ {
+  "name": "GTC News",
+  "hd": false,
+  "number": 1935,
+  "price": 0.0
+ },
+ {
+  "name": "GTC Punjabi",
+  "hd": false,
+  "number": 1904,
+  "price": 0.0
+ },
+ {
+  "name": "Gujarat First",
+  "hd": false,
+  "number": 1735,
+  "price": 0.0
+ },
+ {
+  "name": "Good News Today",
+  "hd": false,
+  "number": 525,
+  "price": 0.0
+ },
+ {
+  "name": "Guarantee News",
+  "hd": false,
+  "number": 1665,
+  "price": 0.0
+ },
+ {
+  "name": "Gulistan News",
+  "hd": false,
+  "number": 1194,
+  "price": 0.0
+ },
+ {
+  "name": "HM TV",
+  "hd": false,
+  "number": 1465,
+  "price": 0.0
+ },
+ {
+  "name": "HNN News",
+  "hd": false,
+  "number": 1140,
+  "price": 0.0
+ },
+ {
+  "name": "Hindi Khabar",
+  "hd": false,
+  "number": 557,
+  "price": 0.0
+ },
+ {
+  "name": "IBC 24",
+  "hd": false,
+  "number": 1153,
+  "price": 0.0
+ },
+ {
+  "name": "INH 24X7",
+  "hd": false,
+  "number": 1155,
+  "price": 0.0
+ },
+ {
+  "name": "India Daily 24x7",
+  "hd": false,
+  "number": 536,
+  "price": 0.0
+ },
+ {
+  "name": "India News Gujarat",
+  "hd": false,
+  "number": 1732,
+  "price": 0.0
+ },
+ {
+  "name": "India News Haryana",
+  "hd": false,
+  "number": 1924,
+  "price": 0.0
+ },
+ {
+  "name": "India News MP CG",
+  "hd": false,
+  "number": 1156,
+  "price": 0.0
+ },
+ {
+  "name": "India News Punjab",
+  "hd": false,
+  "number": 1923,
+  "price": 0.0
+ },
+ {
+  "name": "India News Rajasthan",
+  "hd": false,
+  "number": 1183,
+  "price": 0.0
+ },
+ {
+  "name": "India News",
+  "hd": false,
+  "number": 522,
+  "price": 0.47
+ },
+ {
+  "name": "India News UP UK",
+  "hd": false,
+  "number": 1136,
+  "price": 0.0
+ },
+ {
+  "name": "India Superfast TV",
+  "hd": false,
+  "number": 1143,
+  "price": 0.0
+ },
+ {
+  "name": "India TV",
+  "hd": false,
+  "number": 514,
+  "price": 0.0
+ },
+ {
+  "name": "India Voice",
+  "hd": false,
+  "number": 551,
+  "price": 0.0
+ },
+ {
+  "name": "Jaihind TV",
+  "hd": false,
+  "number": 1847,
+  "price": 0.0
+ },
+ {
+  "name": "Jai Maharashtra",
+  "hd": false,
+  "number": 1262,
+  "price": 0.0
+ },
+ {
+  "name": "Jan TV",
+  "hd": false,
+  "number": 1185,
+  "price": 0.0
+ },
+ {
+  "name": "Janam TV",
+  "hd": false,
+  "number": 1850,
+  "price": 0.0
+ },
+ {
+  "name": "Janta TV",
+  "hd": false,
+  "number": 1925,
+  "price": 0.0
+ },
+ {
+  "name": "Jantantra",
+  "hd": false,
+  "number": 568,
+  "price": 0.0
+ },
+ {
+  "name": "Jaya Plus",
+  "hd": false,
+  "number": 1558,
+  "price": 0.59
+ },
+ {
+  "name": "Jeevan TV",
+  "hd": false,
+  "number": 1848,
+  "price": 0.0
+ },
+ {
+  "name": "Kairali News",
+  "hd": false,
+  "number": 1846,
+  "price": 0.0
+ },
+ {
+  "name": "Kairali TV",
+  "hd": false,
+  "number": 1820,
+  "price": 0.0
+ },
+ {
+  "name": "Kalinga TV",
+  "hd": false,
+  "number": 1777,
+  "price": 0.0
+ },
+ {
+  "name": "Kanak News",
+  "hd": false,
+  "number": 1774,
+  "price": 0.0
+ },
+ {
+  "name": "Kashish News",
+  "hd": false,
+  "number": 1139,
+  "price": 0.0
+ },
+ {
+  "name": "Kaumudy TV",
+  "hd": false,
+  "number": 1851,
+  "price": 0.0
+ },
+ {
+  "name": "Khabar Fast",
+  "hd": false,
+  "number": 1930,
+  "price": 0.0
+ },
+ {
+  "name": "Khabrain Abhi Tak",
+  "hd": false,
+  "number": 563,
+  "price": 0.0
+ },
+ {
+  "name": "Kolkata TV",
+  "hd": false,
+  "number": 1363,
+  "price": 0.0
+ },
+ {
+  "name": "Live Times",
+  "hd": false,
+  "number": 539,
+  "price": 0.0
+ },
+ {
+  "name": "Living India News",
+  "hd": false,
+  "number": 1928,
+  "price": 0.0
+ },
+ {
+  "name": "Lokshahi Marathi",
+  "hd": false,
+  "number": 1265,
+  "price": 0.0
+ },
+ {
+  "name": "MH One News",
+  "hd": false,
+  "number": 1926,
+  "price": 0.0
+ },
+ {
+  "name": "Makkal TV",
+  "hd": false,
+  "number": 1533,
+  "price": 0.0
+ },
+ {
+  "name": "Malaimurasu Seithigal",
+  "hd": false,
+  "number": 1566,
+  "price": 0.0
+ },
+ {
+  "name": "Manorama News",
+  "hd": false,
+  "number": 1843,
+  "price": 0.0
+ },
+ {
+  "name": "Mathrubhumi News",
+  "hd": false,
+  "number": 1844,
+  "price": 0.0
+ },
+ {
+  "name": "Media One",
+  "hd": false,
+  "number": 1849,
+  "price": 0.0
+ },
+ {
+  "name": "Mirror Now",
+  "hd": false,
+  "number": 612,
+  "price": 0.12
+ },
+ {
+  "name": "NDTV MPCG",
+  "hd": false,
+  "number": 1167,
+  "price": 0.0
+ },
+ {
+  "name": "NDTV Marathi",
+  "hd": false,
+  "number": 1268,
+  "price": 0.0
+ },
+ {
+  "name": "NDTV Rajasthan",
+  "hd": false,
+  "number": 1186,
+  "price": 0.0
+ },
+ {
+  "name": "News State UP Uttarakhand",
+  "hd": false,
+  "number": 1137,
+  "price": 0.0
+ },
+ {
+  "name": "NEWS18 MARATHI",
+  "hd": false,
+  "number": 1257,
+  "price": 0.12
+ },
+ {
+  "name": "NHK World Japan",
+  "hd": false,
+  "number": 644,
+  "price": 0.0
+ },
+ {
+  "name": "NKTV Plus",
+  "hd": false,
+  "number": 1977,
+  "price": 0.0
+ },
+ {
+  "name": "NTV Telugu",
+  "hd": false,
+  "number": 1460,
+  "price": 0.0
+ },
+ {
+  "name": "Nandighosha TV",
+  "hd": false,
+  "number": 1779,
+  "price": 0.0
+ },
+ {
+  "name": "Nation 27",
+  "hd": false,
+  "number": 1142,
+  "price": 0.0
+ },
+ {
+  "name": "Network 10",
+  "hd": false,
+  "number": 567,
+  "price": 0.0
+ },
+ {
+  "name": "News 1 India",
+  "hd": false,
+  "number": 553,
+  "price": 0.0
+ },
+ {
+  "name": "News18 Kannada",
+  "hd": false,
+  "number": 1654,
+  "price": 0.12
+ },
+ {
+  "name": "News 1st Kannada",
+  "hd": false,
+  "number": 1661,
+  "price": 0.0
+ },
+ {
+  "name": "News 24 Madhyapradesh Chattisgarh",
+  "hd": false,
+  "number": 1160,
+  "price": 0.0
+ },
+ {
+  "name": "News 24",
+  "hd": false,
+  "number": 516,
+  "price": 0.0
+ },
+ {
+  "name": "News 360",
+  "hd": false,
+  "number": 1141,
+  "price": 0.0
+ },
+ {
+  "name": "News Leader",
+  "hd": false,
+  "number": 543,
+  "price": 0.0
+ },
+ {
+  "name": "News Live",
+  "hd": false,
+  "number": 1973,
+  "price": 0.0
+ },
+ {
+  "name": "News Malayalam 24x7",
+  "hd": false,
+  "number": 1857,
+  "price": 0.0
+ },
+ {
+  "name": "News Nation",
+  "hd": false,
+  "number": 523,
+  "price": 0.0
+ },
+ {
+  "name": "News State MP CG",
+  "hd": false,
+  "number": 1157,
+  "price": 0.0
+ },
+ {
+  "name": "News State Punjab Haryana Himachal",
+  "hd": false,
+  "number": 1934,
+  "price": 0.0
+ },
+ {
+  "name": "News Tamil 24x7",
+  "hd": false,
+  "number": 1569,
+  "price": 0.0
+ },
+ {
+  "name": "News11 Bharat",
+  "hd": false,
+  "number": 552,
+  "price": 0.0
+ },
+ {
+  "name": "News18 Assam North East",
+  "hd": false,
+  "number": 1971,
+  "price": 0.12
+ },
+ {
+  "name": "News18 Bangla",
+  "hd": false,
+  "number": 1365,
+  "price": 0.12
+ },
+ {
+  "name": "News18 Bihar Jharkhand",
+  "hd": false,
+  "number": 1129,
+  "price": 0.12
+ },
+ {
+  "name": "News18 Delhi NCR Jammu Kashmir",
+  "hd": false,
+  "number": 1936,
+  "price": 0.12
+ },
+ {
+  "name": "News18 Gujarati",
+  "hd": false,
+  "number": 1724,
+  "price": 0.12
+ },
+ {
+  "name": "News18 India",
+  "hd": false,
+  "number": 519,
+  "price": 0.0
+ },
+ {
+  "name": "News18 Kerala",
+  "hd": false,
+  "number": 1842,
+  "price": 0.12
+ },
+ {
+  "name": "News18 Madhya Pradesh Chhattisgarh",
+  "hd": false,
+  "number": 1149,
+  "price": 0.12
+ },
+ {
+  "name": "News18 Odia",
+  "hd": false,
+  "number": 1776,
+  "price": 0.12
+ },
+ {
+  "name": "News18 Punjab Haryana",
+  "hd": false,
+  "number": 1922,
+  "price": 0.12
+ },
+ {
+  "name": "News18 Rajasthan",
+  "hd": false,
+  "number": 1176,
+  "price": 0.12
+ },
+ {
+  "name": "News18 Tamil Nadu",
+  "hd": false,
+  "number": 1562,
+  "price": 0.12
+ },
+ {
+  "name": "News18 Uttar Pradesh Uttarakhand",
+  "hd": false,
+  "number": 1125,
+  "price": 0.12
+ },
+ {
+  "name": "Nireekshana TV",
+  "hd": false,
+  "number": 1496,
+  "price": 0.0
+ },
+ {
+  "name": "North East Live",
+  "hd": false,
+  "number": 1976,
+  "price": 0.0
+ },
+ {
+  "name": "OTV",
+  "hd": false,
+  "number": 1771,
+  "price": 0.0
+ },
+ {
+  "name": "PTC News",
+  "hd": false,
+  "number": 1921,
+  "price": 0.0
+ },
+ {
+  "name": "Polimer News",
+  "hd": false,
+  "number": 1561,
+  "price": 0.0
+ },
+ {
+  "name": "Power TV",
+  "hd": false,
+  "number": 1660,
+  "price": 0.0
+ },
+ {
+  "name": "Prag News",
+  "hd": false,
+  "number": 1975,
+  "price": 0.0
+ },
+ {
+  "name": "News7",
+  "hd": false,
+  "number": 1778,
+  "price": 0.0
+ },
+ {
+  "name": "Prime9 Plus",
+  "hd": false,
+  "number": 1471,
+  "price": 0.0
+ },
+ {
+  "name": "Protidin Time",
+  "hd": false,
+  "number": 1974,
+  "price": 0.0
+ },
+ {
+  "name": "Public TV",
+  "hd": false,
+  "number": 1655,
+  "price": 0.0
+ },
+ {
+  "name": "Pudhari News",
+  "hd": false,
+  "number": 1267,
+  "price": 0.0
+ },
+ {
+  "name": "Puthiya Thalaimurai",
+  "hd": false,
+  "number": 1556,
+  "price": 0.0
+ },
+ {
+  "name": "R Bharat",
+  "hd": false,
+  "number": 521,
+  "price": 0.0
+ },
+ {
+  "name": "R Kannada",
+  "hd": false,
+  "number": 1659,
+  "price": 0.0
+ },
+ {
+  "name": "Raj News Kannada",
+  "hd": false,
+  "number": 1658,
+  "price": 0.0
+ },
+ {
+  "name": "Raj News Malayalam",
+  "hd": false,
+  "number": 1853,
+  "price": 0.0
+ },
+ {
+  "name": "Raj News Tamil",
+  "hd": false,
+  "number": 1564,
+  "price": 0.33
+ },
+ {
+  "name": "Raj News Telugu",
+  "hd": false,
+  "number": 1466,
+  "price": 0.0
+ },
+ {
+  "name": "Rashtra TV",
+  "hd": false,
+  "number": 1195,
+  "price": 0.0
+ },
+ {
+  "name": "Reporter TV",
+  "hd": false,
+  "number": 1855,
+  "price": 0.0
+ },
+ {
+  "name": "Republic Bangla",
+  "hd": false,
+  "number": 1367,
+  "price": 0.0
+ },
+ {
+  "name": "Republic TV",
+  "hd": false,
+  "number": 616,
+  "price": 0.0
+ },
+ {
+  "name": "ABP Majha",
+  "hd": false,
+  "number": 1255,
+  "price": 0.0
+ },
+ {
+  "name": "Aaj Tak",
+  "hd": false,
+  "number": 509,
+  "price": 0.0
+ },
+ {
+  "name": "CNN News18",
+  "hd": false,
+  "number": 608,
+  "price": 0.59
+ },
+ {
+  "name": "NDTV India",
+  "hd": false,
+  "number": 506,
+  "price": 0.0
+ },
+ {
+  "name": "Rongeen TV",
+  "hd": false,
+  "number": 1355,
+  "price": 0.0
+ },
+ {
+  "name": "Rozana Spokesman",
+  "hd": false,
+  "number": 1937,
+  "price": 0.0
+ },
+ {
+  "name": "Russia Today",
+  "hd": false,
+  "number": 643,
+  "price": 0.0
+ },
+ {
+  "name": "STV Haryana News",
+  "hd": false,
+  "number": 1932,
+  "price": 0.0
+ },
+ {
+  "name": "Saam TV",
+  "hd": false,
+  "number": 1261,
+  "price": 0.0
+ },
+ {
+  "name": "Sach Bedhadak",
+  "hd": false,
+  "number": 1188,
+  "price": 0.0
+ },
+ {
+  "name": "Sadhna News MP CG",
+  "hd": false,
+  "number": 1159,
+  "price": 0.0
+ },
+ {
+  "name": "Sadhna Plus News",
+  "hd": false,
+  "number": 1138,
+  "price": 0.0
+ },
+ {
+  "name": "Sadhna Prime News",
+  "hd": false,
+  "number": 1171,
+  "price": 0.0
+ },
+ {
+  "name": "Sakshi TV",
+  "hd": false,
+  "number": 1456,
+  "price": 0.0
+ },
+ {
+  "name": "Samachar Plus 24 x 7",
+  "hd": false,
+  "number": 1187,
+  "price": 0.0
+ },
+ {
+  "name": "Sampoorna News",
+  "hd": false,
+  "number": 1668,
+  "price": 0.0
+ },
+ {
+  "name": "Sandesh News",
+  "hd": false,
+  "number": 1722,
+  "price": 0.0
+ },
+ {
+  "name": "Sansad TV 1 HD",
+  "hd": false,
+  "number": 596,
+  "price": 0.0
+ },
+ {
+  "name": "Sansad TV 1",
+  "hd": false,
+  "number": 598,
+  "price": 0.0
+ },
+ {
+  "name": "Sansad TV 2 HD",
+  "hd": false,
+  "number": 597,
+  "price": 0.0
+ },
+ {
+  "name": "Sansad TV 2",
+  "hd": false,
+  "number": 599,
+  "price": 0.0
+ },
+ {
+  "name": "Sathiyam TV",
+  "hd": false,
+  "number": 1565,
+  "price": 0.0
+ },
+ {
+  "name": "Sudarshan News",
+  "hd": false,
+  "number": 534,
+  "price": 0.0
+ },
+ {
+  "name": "Swadesh News",
+  "hd": false,
+  "number": 573,
+  "price": 0.0
+ },
+ {
+  "name": "Swaraj Express SMBC",
+  "hd": false,
+  "number": 1158,
+  "price": 0.0
+ },
+ {
+  "name": "T News",
+  "hd": false,
+  "number": 1462,
+  "price": 0.0
+ },
+ {
+  "name": "TNP News",
+  "hd": false,
+  "number": 541,
+  "price": 0.0
+ },
+ {
+  "name": "TV5 News",
+  "hd": false,
+  "number": 1458,
+  "price": 0.0
+ },
+ {
+  "name": "TV9 Telugu",
+  "hd": false,
+  "number": 1459,
+  "price": 0.0
+ },
+ {
+  "name": "TV9 Gujarati",
+  "hd": false,
+  "number": 1720,
+  "price": 0.0
+ },
+ {
+  "name": "TV5 Kannada",
+  "hd": false,
+  "number": 1657,
+  "price": 0.0
+ },
+ {
+  "name": "TV5 Monde Asie",
+  "hd": false,
+  "number": 640,
+  "price": 0.0
+ },
+ {
+  "name": "TV9 Bangla",
+  "hd": false,
+  "number": 1366,
+  "price": 0.0
+ },
+ {
+  "name": "TV9 Bharatvarsh",
+  "hd": false,
+  "number": 524,
+  "price": 0.0
+ },
+ {
+  "name": "TV9 Kannada",
+  "hd": false,
+  "number": 1653,
+  "price": 0.0
+ },
+ {
+  "name": "TV9 Marathi",
+  "hd": false,
+  "number": 1263,
+  "price": 0.0
+ },
+ {
+  "name": "Tamil Janam",
+  "hd": false,
+  "number": 1570,
+  "price": 0.0
+ },
+ {
+  "name": "Thanthi TV",
+  "hd": false,
+  "number": 1557,
+  "price": 0.0
+ },
+ {
+  "name": "Times Now Navbharat",
+  "hd": false,
+  "number": 529,
+  "price": 0.0
+ },
+ {
+  "name": "Total TV",
+  "hd": false,
+  "number": 527,
+  "price": 0.0
+ },
+ {
+  "name": "Tv27 News",
+  "hd": false,
+  "number": 1163,
+  "price": 0.0
+ },
+ {
+  "name": "Twenty four",
+  "hd": false,
+  "number": 1854,
+  "price": 0.0
+ },
+ {
+  "name": "VTV News",
+  "hd": false,
+  "number": 1729,
+  "price": 0.0
+ },
+ {
+  "name": "Vistaar News",
+  "hd": false,
+  "number": 1168,
+  "price": 0.0
+ },
+ {
+  "name": "Zee 24 Kalak",
+  "hd": false,
+  "number": 1731,
+  "price": 0.0
+ },
+ {
+  "name": "Zee Bharat",
+  "hd": false,
+  "number": 520,
+  "price": 0.12
+ },
+ {
+  "name": "Zee Bihar Jharkhand",
+  "hd": false,
+  "number": 1130,
+  "price": 0.12
+ },
+ {
+  "name": "Zee Business",
+  "hd": false,
+  "number": 590,
+  "price": 0.12
+ },
+ {
+  "name": "Zee Delhi NCR Haryana",
+  "hd": false,
+  "number": 1931,
+  "price": 0.12
+ },
+ {
+  "name": "Zee Kannada News",
+  "hd": false,
+  "number": 1664,
+  "price": 0.12
+ },
+ {
+  "name": "Zee Madhya Pradesh Chattisgarh",
+  "hd": false,
+  "number": 1150,
+  "price": 0.12
+ },
+ {
+  "name": "Zee News",
+  "hd": false,
+  "number": 511,
+  "price": 0.0
+ },
+ {
+  "name": "Zee Punjab Haryana Himachal Pradesh",
+  "hd": false,
+  "number": 1920,
+  "price": 0.12
+ },
+ {
+  "name": "Zee Rajasthan News",
+  "hd": false,
+  "number": 1177,
+  "price": 0.12
+ },
+ {
+  "name": "Zee Telugu News",
+  "hd": false,
+  "number": 1477,
+  "price": 0.12
+ },
+ {
+  "name": "Zee Uttar Pradesh Uttarakhand",
+  "hd": false,
+  "number": 1126,
+  "price": 0.12
+ },
+ {
+  "name": "CNBC Bajaar",
+  "hd": false,
+  "number": 1726,
+  "price": 1.18
+ },
+ {
+  "name": "CNBC TV18 Prime HD",
+  "hd": false,
+  "number": 625,
+  "price": 1.18
+ },
+ {
+  "name": "ET Now Swadesh",
+  "hd": false,
+  "number": 594,
+  "price": 1.18
+ },
+ {
+  "name": "India TV Speed News HD",
+  "hd": false,
+  "number": 532,
+  "price": 1.18
+ },
+ {
+  "name": "NDTV Profit Prime",
+  "hd": false,
+  "number": 623,
+  "price": 1.77
+ },
+ {
+  "name": "NewsX",
+  "hd": false,
+  "number": 610,
+  "price": 1.18
+ },
+ {
+  "name": "NewsX World",
+  "hd": false,
+  "number": 620,
+  "price": 1.77
+ },
+ {
+  "name": "BBC News",
+  "hd": false,
+  "number": 633,
+  "price": 1.77
+ },
+ {
+  "name": "Seithigal TV",
+  "hd": false,
+  "number": 1563,
+  "price": 1.18
+ },
+ {
+  "name": "Sun News",
+  "hd": false,
+  "number": 1559,
+  "price": 1.18
+ },
+ {
+  "name": "WION",
+  "hd": false,
+  "number": 613,
+  "price": 1.18
+ },
+ {
+  "name": "Zee News HD",
+  "hd": false,
+  "number": 510,
+  "price": 1.77
+ },
+ {
+  "name": "Aaj Tak HD",
+  "hd": false,
+  "number": 508,
+  "price": 2.95
+ },
+ {
+  "name": "ET Now",
+  "hd": false,
+  "number": 627,
+  "price": 2.36
+ },
+ {
+  "name": "ETV Andhra Pradesh",
+  "hd": false,
+  "number": 1457,
+  "price": 2.36
+ },
+ {
+  "name": "ETV Telangana",
+  "hd": false,
+  "number": 1464,
+  "price": 2.36
+ },
+ {
+  "name": "CNN Intl",
+  "hd": false,
+  "number": 631,
+  "price": 2.36
+ },
+ {
+  "name": "India Today",
+  "hd": false,
+  "number": 606,
+  "price": 2.12
+ },
+ {
+  "name": "Times Now Navbharat HD",
+  "hd": false,
+  "number": 528,
+  "price": 2.36
+ },
+ {
+  "name": "Times Now",
+  "hd": false,
+  "number": 604,
+  "price": 3.54
+ },
+ {
+  "name": "Times Now World HD",
+  "hd": false,
+  "number": 603,
+  "price": 3.54
+ },
+ {
+  "name": "CNBC TV18",
+  "hd": false,
+  "number": 626,
+  "price": 4.72
+ },
+ {
+  "name": "NDTV",
+  "hd": false,
+  "number": 601,
+  "price": 4.13
+ },
+ {
+  "name": "Bloomberg Television",
+  "hd": false,
+  "number": 628,
+  "price": 5.63
+ },
+ {
+  "name": "Aakaash Aath",
+  "hd": false,
+  "number": 1320,
+  "price": 0.0
+ },
+ {
+  "name": "Amrita TV",
+  "hd": false,
+  "number": 1823,
+  "price": 0.0
+ },
+ {
+  "name": "Anjan TV",
+  "hd": false,
+  "number": 178,
+  "price": 0.0
+ },
+ {
+  "name": "Anmol Cinema 2",
+  "hd": false,
+  "number": 377,
+  "price": 0.0
+ },
+ {
+  "name": "Anmol TV",
+  "hd": false,
+  "number": 172,
+  "price": 0.0
+ },
+ {
+  "name": "Colors Rishtey",
+  "hd": false,
+  "number": 173,
+  "price": 0.0
+ },
+ {
+  "name": "DD Chhattisgarh",
+  "hd": false,
+  "number": 1174,
+  "price": 0.0
+ },
+ {
+  "name": "DD Goa",
+  "hd": false,
+  "number": 1995,
+  "price": 0.0
+ },
+ {
+  "name": "DD Haryana",
+  "hd": false,
+  "number": 1940,
+  "price": 0.0
+ },
+ {
+  "name": "DD Himachal",
+  "hd": false,
+  "number": 1939,
+  "price": 0.0
+ },
+ {
+  "name": "DD Kisan",
+  "hd": false,
+  "number": 198,
+  "price": 0.0
+ },
+ {
+  "name": "DD Meghalaya",
+  "hd": false,
+  "number": 1991,
+  "price": 0.0
+ },
+ {
+  "name": "DD Mizoram",
+  "hd": false,
+  "number": 1993,
+  "price": 0.0
+ },
+ {
+  "name": "DD Nagaland",
+  "hd": false,
+  "number": 1994,
+  "price": 0.0
+ },
+ {
+  "name": "DD National HD",
+  "hd": false,
+  "number": 196,
+  "price": 0.0
+ },
+ {
+  "name": "DD National",
+  "hd": false,
+  "number": 197,
+  "price": 0.0
+ },
+ {
+  "name": "DD Port Blair",
+  "hd": false,
+  "number": 1985,
+  "price": 0.0
+ },
+ {
+  "name": "DD Tripura",
+  "hd": false,
+  "number": 1992,
+  "price": 0.0
+ },
+ {
+  "name": "DD Uttarakhand",
+  "hd": false,
+  "number": 1144,
+  "price": 0.0
+ },
+ {
+  "name": "Dangal 2",
+  "hd": false,
+  "number": 183,
+  "price": 0.0
+ },
+ {
+  "name": "Dangal",
+  "hd": false,
+  "number": 177,
+  "price": 0.0
+ },
+ {
+  "name": "EPIC Bharat",
+  "hd": false,
+  "number": 185,
+  "price": 0.0
+ },
+ {
+  "name": "Enterr10 Bangla",
+  "hd": false,
+  "number": 1322,
+  "price": 0.0
+ },
+ {
+  "name": "Fakt Marathi",
+  "hd": false,
+  "number": 1229,
+  "price": 0.0
+ },
+ {
+  "name": "Gangaur TV",
+  "hd": false,
+  "number": 1189,
+  "price": 0.0
+ },
+ {
+  "name": "Mazhavil Manorama HD",
+  "hd": false,
+  "number": 1818,
+  "price": 0.0
+ },
+ {
+  "name": "Mazhavil Manorama",
+  "hd": false,
+  "number": 1819,
+  "price": 0.0
+ },
+ {
+  "name": "Nambikkai TV",
+  "hd": false,
+  "number": 1592,
+  "price": 0.0
+ },
+ {
+  "name": "PTC Punjabi",
+  "hd": false,
+  "number": 1906,
+  "price": 0.0
+ },
+ {
+  "name": "Peppers TV",
+  "hd": false,
+  "number": 1534,
+  "price": 0.0
+ },
+ {
+  "name": "Polimer TV",
+  "hd": false,
+  "number": 1532,
+  "price": 0.0
+ },
+ {
+  "name": "Raj Pariwar",
+  "hd": false,
+  "number": 857,
+  "price": 0.89
+ },
+ {
+  "name": "Rang",
+  "hd": false,
+  "number": 1952,
+  "price": 0.0
+ },
+ {
+  "name": "Rengoni TV",
+  "hd": false,
+  "number": 1953,
+  "price": 0.0
+ },
+ {
+  "name": "Ruposhi Bangla",
+  "hd": false,
+  "number": 1321,
+  "price": 0.0
+ },
+ {
+  "name": "STAR Utsav",
+  "hd": false,
+  "number": 171,
+  "price": 0.0
+ },
+ {
+  "name": "Shemaroo TV",
+  "hd": false,
+  "number": 181,
+  "price": 0.0
+ },
+ {
+  "name": "Sirikannada All Time",
+  "hd": false,
+  "number": 1618,
+  "price": 0.0
+ },
+ {
+  "name": "Sony Pal",
+  "hd": false,
+  "number": 174,
+  "price": 0.0
+ },
+ {
+  "name": "Sun Bangla",
+  "hd": false,
+  "number": 1317,
+  "price": 0.0
+ },
+ {
+  "name": "Sun Bangla HD",
+  "hd": false,
+  "number": 1316,
+  "price": 0.0
+ },
+ {
+  "name": "Sun Marathi HD",
+  "hd": false,
+  "number": 1216,
+  "price": 0.0
+ },
+ {
+  "name": "Sun Marathi",
+  "hd": false,
+  "number": 1217,
+  "price": 0.0
+ },
+ {
+  "name": "Sun Neo HD",
+  "hd": false,
+  "number": 189,
+  "price": 0.0
+ },
+ {
+  "name": "Sun Neo",
+  "hd": false,
+  "number": 190,
+  "price": 0.0
+ },
+ {
+  "name": "Vanitha",
+  "hd": false,
+  "number": 1425,
+  "price": 0.0
+ },
+ {
+  "name": "Vasanth TV",
+  "hd": false,
+  "number": 1530,
+  "price": 0.0
+ },
+ {
+  "name": "Vendhar TV",
+  "hd": false,
+  "number": 1536,
+  "price": 0.0
+ },
+ {
+  "name": "Vissa",
+  "hd": false,
+  "number": 1422,
+  "price": 0.0
+ },
+ {
+  "name": "We TV",
+  "hd": false,
+  "number": 1822,
+  "price": 0.0
+ },
+ {
+  "name": "Big Magic",
+  "hd": false,
+  "number": 389,
+  "price": 1.18
+ },
+ {
+  "name": "Colors Super",
+  "hd": false,
+  "number": 1615,
+  "price": 1.18
+ },
+ {
+  "name": "Investigation Discovery",
+  "hd": false,
+  "number": 156,
+  "price": 1.18
+ },
+ {
+  "name": "Mega 24",
+  "hd": false,
+  "number": 1524,
+  "price": 1.18
+ },
+ {
+  "name": "Raj Digital Plus",
+  "hd": false,
+  "number": 1522,
+  "price": 1.89
+ },
+ {
+  "name": "Zee Yuva",
+  "hd": false,
+  "number": 1211,
+  "price": 1.18
+ },
+ {
+  "name": "Investigation Discovery HD",
+  "hd": false,
+  "number": 155,
+  "price": 2.36
+ },
+ {
+  "name": "Mega TV",
+  "hd": false,
+  "number": 1523,
+  "price": 3.54
+ },
+ {
+  "name": "Raj TV",
+  "hd": false,
+  "number": 1520,
+  "price": 4.72
+ },
+ {
+  "name": "Colors Tamil",
+  "hd": false,
+  "number": 1515,
+  "price": 5.9
+ },
+ {
+  "name": "EPIC Parivar",
+  "hd": false,
+  "number": 182,
+  "price": 5.9
+ },
+ {
+  "name": "CHITHIRAM",
+  "hd": false,
+  "number": 1542,
+  "price": 7.08
+ },
+ {
+  "name": "Jaya TV HD",
+  "hd": false,
+  "number": 1517,
+  "price": 7.08
+ },
+ {
+  "name": "Asianet Plus",
+  "hd": false,
+  "number": 1809,
+  "price": 8.26
+ },
+ {
+  "name": "Colors Bangla",
+  "hd": false,
+  "number": 1303,
+  "price": 8.26
+ },
+ {
+  "name": "Colors Gujarati",
+  "hd": false,
+  "number": 1702,
+  "price": 8.26
+ },
+ {
+  "name": "Unite8 Sports 1",
+  "hd": false,
+  "number": 495,
+  "price": 8.26
+ },
+ {
+  "name": "Sirippoli",
+  "hd": false,
+  "number": 1531,
+  "price": 9.44
+ },
+ {
+  "name": "Unite8 Sports 1 HD",
+  "hd": false,
+  "number": 494,
+  "price": 10.62
+ },
+ {
+  "name": "&TV",
+  "hd": false,
+  "number": 139,
+  "price": 11.8
+ },
+ {
+  "name": "Colors Infinity",
+  "hd": false,
+  "number": 215,
+  "price": 11.8
+ },
+ {
+  "name": "Colors Tamil HD",
+  "hd": false,
+  "number": 1514,
+  "price": 11.8
+ },
+ {
+  "name": "Flowers",
+  "hd": false,
+  "number": 1814,
+  "price": 11.8
+ },
+ {
+  "name": "Sony Marathi",
+  "hd": false,
+  "number": 1213,
+  "price": 11.8
+ },
+ {
+  "name": "Vijay Super",
+  "hd": false,
+  "number": 1513,
+  "price": 11.8
+ },
+ {
+  "name": "Zee Keralam",
+  "hd": false,
+  "number": 1812,
+  "price": 11.8
+ },
+ {
+  "name": "Zee Punjabi",
+  "hd": false,
+  "number": 1903,
+  "price": 11.8
+ },
+ {
+  "name": "Sun Surya",
+  "hd": false,
+  "number": 1803,
+  "price": 14.16
+ },
+ {
+  "name": "ETV Plus",
+  "hd": false,
+  "number": 1417,
+  "price": 15.34
+ },
+ {
+  "name": "Colors Infinity HD",
+  "hd": false,
+  "number": 214,
+  "price": 17.7
+ },
+ {
+  "name": "Colors Marathi",
+  "hd": false,
+  "number": 1202,
+  "price": 17.7
+ },
+ {
+  "name": "Star Bharat",
+  "hd": false,
+  "number": 122,
+  "price": 17.7
+ },
+ {
+  "name": "Star Kiran",
+  "hd": false,
+  "number": 1759,
+  "price": 17.7
+ },
+ {
+  "name": "Zee Keralam HD",
+  "hd": false,
+  "number": 1811,
+  "price": 17.7
+ },
+ {
+  "name": "ETV Plus HD",
+  "hd": false,
+  "number": 1416,
+  "price": 20.06
+ },
+ {
+  "name": "SIDHARTH TV",
+  "hd": false,
+  "number": 1757,
+  "price": 21.24
+ },
+ {
+  "name": "&TV HD",
+  "hd": false,
+  "number": 137,
+  "price": 22.42
+ },
+ {
+  "name": "Colors Bangla HD",
+  "hd": false,
+  "number": 1302,
+  "price": 22.42
+ },
+ {
+  "name": "Colors HD",
+  "hd": false,
+  "number": 147,
+  "price": 22.42
+ },
+ {
+  "name": "Colors Marathi HD",
+  "hd": false,
+  "number": 1201,
+  "price": 22.42
+ },
+ {
+  "name": "Disney International HD",
+  "hd": false,
+  "number": 221,
+  "price": 22.42
+ },
+ {
+  "name": "ETV HD",
+  "hd": false,
+  "number": 1411,
+  "price": 22.42
+ },
+ {
+  "name": "ETV Telugu",
+  "hd": false,
+  "number": 1412,
+  "price": 22.42
+ },
+ {
+  "name": "Kalaignar TV",
+  "hd": false,
+  "number": 1518,
+  "price": 22.42
+ },
+ {
+  "name": "Colors",
+  "hd": false,
+  "number": 149,
+  "price": 22.42
+ },
+ {
+  "name": "Star Plus",
+  "hd": false,
+  "number": 117,
+  "price": 22.42
+ },
+ {
+  "name": "Zee TV",
+  "hd": false,
+  "number": 143,
+  "price": 22.42
+ },
+ {
+  "name": "Star Pravah",
+  "hd": false,
+  "number": 1208,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Sarthak",
+  "hd": false,
+  "number": 1756,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Entertainment Television",
+  "hd": false,
+  "number": 130,
+  "price": 22.42
+ },
+ {
+  "name": "Sony SAB",
+  "hd": false,
+  "number": 134,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Vizha HD",
+  "hd": false,
+  "number": 1525,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Vizha",
+  "hd": false,
+  "number": 1526,
+  "price": 22.42
+ },
+ {
+  "name": "Star Bharat HD",
+  "hd": false,
+  "number": 121,
+  "price": 22.42
+ },
+ {
+  "name": "Star Pravah HD",
+  "hd": false,
+  "number": 1207,
+  "price": 22.42
+ },
+ {
+  "name": "Star Suvarna",
+  "hd": false,
+  "number": 1610,
+  "price": 22.42
+ },
+ {
+  "name": "Sun Gemini",
+  "hd": false,
+  "number": 1406,
+  "price": 22.42
+ },
+ {
+  "name": "Sun Gemini HD",
+  "hd": false,
+  "number": 1405,
+  "price": 22.42
+ },
+ {
+  "name": "Sun Surya HD",
+  "hd": false,
+  "number": 1802,
+  "price": 22.42
+ },
+ {
+  "name": "Sun TV",
+  "hd": false,
+  "number": 1504,
+  "price": 22.42
+ },
+ {
+  "name": "Sun TV HD",
+  "hd": false,
+  "number": 1503,
+  "price": 22.42
+ },
+ {
+  "name": "Sun Udaya",
+  "hd": false,
+  "number": 1604,
+  "price": 22.42
+ },
+ {
+  "name": "Sun Udaya HD",
+  "hd": false,
+  "number": 1603,
+  "price": 22.42
+ },
+ {
+  "name": "Tarang TV",
+  "hd": false,
+  "number": 1754,
+  "price": 22.42
+ },
+ {
+  "name": "Vijay Super HD",
+  "hd": false,
+  "number": 1512,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Bangla",
+  "hd": false,
+  "number": 1307,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Bangla HD",
+  "hd": false,
+  "number": 1306,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Kannada HD",
+  "hd": false,
+  "number": 1611,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Kannada",
+  "hd": false,
+  "number": 1612,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Marathi",
+  "hd": false,
+  "number": 1204,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Marathi HD",
+  "hd": false,
+  "number": 1203,
+  "price": 22.42
+ },
+ {
+  "name": "Zee TV HD",
+  "hd": false,
+  "number": 141,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Tamil HD",
+  "hd": false,
+  "number": 1510,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Tamil",
+  "hd": false,
+  "number": 1511,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Telugu HD",
+  "hd": false,
+  "number": 1403,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Telugu",
+  "hd": false,
+  "number": 1404,
+  "price": 22.42
+ },
+ {
+  "name": "Star Jalsha",
+  "hd": false,
+  "number": 1310,
+  "price": 29.5
+ },
+ {
+  "name": "Star Jalsha HD",
+  "hd": false,
+  "number": 1309,
+  "price": 29.5
+ },
+ {
+  "name": "Star Plus HD",
+  "hd": false,
+  "number": 115,
+  "price": 29.5
+ },
+ {
+  "name": "Star Suvarna HD",
+  "hd": false,
+  "number": 1609,
+  "price": 29.5
+ },
+ {
+  "name": "Asianet",
+  "hd": false,
+  "number": 1807,
+  "price": 35.4
+ },
+ {
+  "name": "Asianet HD",
+  "hd": false,
+  "number": 1806,
+  "price": 35.4
+ },
+ {
+  "name": "Colors Kannada",
+  "hd": false,
+  "number": 1606,
+  "price": 35.4
+ },
+ {
+  "name": "Colors Kannada HD",
+  "hd": false,
+  "number": 1605,
+  "price": 35.4
+ },
+ {
+  "name": "Star Maa",
+  "hd": false,
+  "number": 1409,
+  "price": 35.4
+ },
+ {
+  "name": "Star Maa HD",
+  "hd": false,
+  "number": 1408,
+  "price": 35.4
+ },
+ {
+  "name": "Star Vijay",
+  "hd": false,
+  "number": 1508,
+  "price": 35.4
+ },
+ {
+  "name": "Sony Entertainment Television HD",
+  "hd": false,
+  "number": 128,
+  "price": 35.4
+ },
+ {
+  "name": "Sony SAB HD",
+  "hd": false,
+  "number": 132,
+  "price": 35.4
+ },
+ {
+  "name": "Star Vijay HD",
+  "hd": false,
+  "number": 1507,
+  "price": 35.4
+ },
+ {
+  "name": "ALL Time MOVIES",
+  "hd": false,
+  "number": 374,
+  "price": 0.0
+ },
+ {
+  "name": "Action Cinema",
+  "hd": false,
+  "number": 349,
+  "price": 0.0
+ },
+ {
+  "name": "Anmol Cinema",
+  "hd": false,
+  "number": 371,
+  "price": 0.0
+ },
+ {
+  "name": "B4U Bhojpuri",
+  "hd": false,
+  "number": 1120,
+  "price": 0.0
+ },
+ {
+  "name": "B4U Kadak",
+  "hd": false,
+  "number": 346,
+  "price": 0.0
+ },
+ {
+  "name": "B4U Movies",
+  "hd": false,
+  "number": 352,
+  "price": 0.0
+ },
+ {
+  "name": "Bhojpuri Cinema",
+  "hd": false,
+  "number": 1119,
+  "price": 0.0
+ },
+ {
+  "name": "Colors Cineplex Bollywood",
+  "hd": false,
+  "number": 373,
+  "price": 0.0
+ },
+ {
+  "name": "Colors Cineplex Superhits",
+  "hd": false,
+  "number": 372,
+  "price": 0.0
+ },
+ {
+  "name": "EPIC Bhojpuri",
+  "hd": false,
+  "number": 1114,
+  "price": 0.0
+ },
+ {
+  "name": "Goldmines",
+  "hd": false,
+  "number": 375,
+  "price": 0.0
+ },
+ {
+  "name": "Goldmines Movies",
+  "hd": false,
+  "number": 385,
+  "price": 0.0
+ },
+ {
+  "name": "Khushboo Bangla",
+  "hd": false,
+  "number": 1341,
+  "price": 0.0
+ },
+ {
+  "name": "Manoranjan TV",
+  "hd": false,
+  "number": 376,
+  "price": 0.0
+ },
+ {
+  "name": "News Live Bangla",
+  "hd": false,
+  "number": 1373,
+  "price": 0.0
+ },
+ {
+  "name": "Oscar Movies Bhojpuri",
+  "hd": false,
+  "number": 1118,
+  "price": 0.0
+ },
+ {
+  "name": "PTC Gold",
+  "hd": false,
+  "number": 1912,
+  "price": 0.0
+ },
+ {
+  "name": "Pitaara Movies",
+  "hd": false,
+  "number": 1911,
+  "price": 0.0
+ },
+ {
+  "name": "Public Movies",
+  "hd": false,
+  "number": 1639,
+  "price": 0.0
+ },
+ {
+  "name": "Shemaroo Josh",
+  "hd": false,
+  "number": 383,
+  "price": 0.0
+ },
+ {
+  "name": "Shemaroo MarathiBana",
+  "hd": false,
+  "number": 1230,
+  "price": 0.0
+ },
+ {
+  "name": "Sony Wah",
+  "hd": false,
+  "number": 351,
+  "price": 0.0
+ },
+ {
+  "name": "Star Utsav Movies",
+  "hd": false,
+  "number": 369,
+  "price": 0.0
+ },
+ {
+  "name": "Zee Biskope",
+  "hd": false,
+  "number": 1113,
+  "price": 0.0
+ },
+ {
+  "name": "Zee Classic",
+  "hd": false,
+  "number": 328,
+  "price": 1.18
+ },
+ {
+  "name": "J Movies",
+  "hd": false,
+  "number": 1544,
+  "price": 2.66
+ },
+ {
+  "name": "Star Gold Thrills",
+  "hd": false,
+  "number": 345,
+  "price": 2.36
+ },
+ {
+  "name": "Sony Max 2",
+  "hd": false,
+  "number": 355,
+  "price": 3.54
+ },
+ {
+  "name": "Star Gold Romance",
+  "hd": false,
+  "number": 325,
+  "price": 3.54
+ },
+ {
+  "name": "Zee Bollywood",
+  "hd": false,
+  "number": 327,
+  "price": 3.54
+ },
+ {
+  "name": "&Xplor HD",
+  "hd": false,
+  "number": 333,
+  "price": 4.72
+ },
+ {
+  "name": "Sidharth Gold",
+  "hd": false,
+  "number": 1766,
+  "price": 4.08
+ },
+ {
+  "name": "Alankar",
+  "hd": false,
+  "number": 1763,
+  "price": 5.9
+ },
+ {
+  "name": "MNX",
+  "hd": false,
+  "number": 426,
+  "price": 5.9
+ },
+ {
+  "name": "Romedy Now",
+  "hd": false,
+  "number": 429,
+  "price": 5.9
+ },
+ {
+  "name": "Sony Max 1",
+  "hd": false,
+  "number": 388,
+  "price": 5.9
+ },
+ {
+  "name": "Sun Gemini Comedy",
+  "hd": false,
+  "number": 1442,
+  "price": 5.9
+ },
+ {
+  "name": "Sun Surya Comedy",
+  "hd": false,
+  "number": 1830,
+  "price": 5.9
+ },
+ {
+  "name": "Pravah Pictures",
+  "hd": false,
+  "number": 1228,
+  "price": 7.08
+ },
+ {
+  "name": "Colors Gujarati Cinema",
+  "hd": false,
+  "number": 1711,
+  "price": 8.26
+ },
+ {
+  "name": "Star Gold Select",
+  "hd": false,
+  "number": 357,
+  "price": 8.26
+ },
+ {
+  "name": "Sun Udaya Comedy",
+  "hd": false,
+  "number": 1628,
+  "price": 8.26
+ },
+ {
+  "name": "Star Gold 2",
+  "hd": false,
+  "number": 317,
+  "price": 9.44
+ },
+ {
+  "name": "Star Gold 2 HD",
+  "hd": false,
+  "number": 316,
+  "price": 9.44
+ },
+ {
+  "name": "Star Gold Select HD",
+  "hd": false,
+  "number": 356,
+  "price": 9.44
+ },
+ {
+  "name": "Unite8 Sports 2",
+  "hd": false,
+  "number": 493,
+  "price": 9.44
+ },
+ {
+  "name": "Zee Talkies",
+  "hd": false,
+  "number": 1226,
+  "price": 10.62
+ },
+ {
+  "name": "Adithya TV",
+  "hd": false,
+  "number": 1543,
+  "price": 11.8
+ },
+ {
+  "name": "Colors Kannada Cinema",
+  "hd": false,
+  "number": 1632,
+  "price": 11.8
+ },
+ {
+  "name": "Movies Now",
+  "hd": false,
+  "number": 421,
+  "price": 11.8
+ },
+ {
+  "name": "Sony Aath",
+  "hd": false,
+  "number": 1312,
+  "price": 11.8
+ },
+ {
+  "name": "Sony Pix",
+  "hd": false,
+  "number": 407,
+  "price": 11.8
+ },
+ {
+  "name": "Star Movies Select",
+  "hd": false,
+  "number": 419,
+  "price": 11.8
+ },
+ {
+  "name": "Star Pravah Pictures HD",
+  "hd": false,
+  "number": 1227,
+  "price": 11.8
+ },
+ {
+  "name": "Zee Bangla Sonar",
+  "hd": false,
+  "number": 1329,
+  "price": 11.8
+ },
+ {
+  "name": "Zee Thirai",
+  "hd": false,
+  "number": 1546,
+  "price": 11.8
+ },
+ {
+  "name": "Unite8 Sports 2 HD",
+  "hd": false,
+  "number": 492,
+  "price": 12.98
+ },
+ {
+  "name": "MN+ HD",
+  "hd": false,
+  "number": 423,
+  "price": 14.16
+ },
+ {
+  "name": "MNX HD",
+  "hd": false,
+  "number": 425,
+  "price": 14.16
+ },
+ {
+  "name": "Star Maa Gold",
+  "hd": false,
+  "number": 1435,
+  "price": 14.16
+ },
+ {
+  "name": "Sun Surya Movies",
+  "hd": false,
+  "number": 1826,
+  "price": 14.16
+ },
+ {
+  "name": "Star Suvarna Plus",
+  "hd": false,
+  "number": 1630,
+  "price": 14.16
+ },
+ {
+  "name": "&pictures",
+  "hd": false,
+  "number": 332,
+  "price": 17.7
+ },
+ {
+  "name": "Colors Bangla Cinema",
+  "hd": false,
+  "number": 1331,
+  "price": 17.7
+ },
+ {
+  "name": "Colors Cineplex",
+  "hd": false,
+  "number": 324,
+  "price": 17.7
+ },
+ {
+  "name": "Jalsha Movies",
+  "hd": false,
+  "number": 1327,
+  "price": 17.7
+ },
+ {
+  "name": "Zee Cinemalu",
+  "hd": false,
+  "number": 1438,
+  "price": 17.7
+ },
+ {
+  "name": "Zee Power",
+  "hd": false,
+  "number": 1634,
+  "price": 17.7
+ },
+ {
+  "name": "Zee Power HD",
+  "hd": false,
+  "number": 1633,
+  "price": 18.88
+ },
+ {
+  "name": "Zee Thirai HD",
+  "hd": false,
+  "number": 1545,
+  "price": 18.88
+ },
+ {
+  "name": "ETV Cinema",
+  "hd": false,
+  "number": 1440,
+  "price": 20.06
+ },
+ {
+  "name": "&pictures HD",
+  "hd": false,
+  "number": 331,
+  "price": 22.42
+ },
+ {
+  "name": "Asianet Movies HD",
+  "hd": false,
+  "number": 1827,
+  "price": 22.42
+ },
+ {
+  "name": "Colors Cineplex HD",
+  "hd": false,
+  "number": 323,
+  "price": 22.42
+ },
+ {
+  "name": "ETV Cinema HD",
+  "hd": false,
+  "number": 1439,
+  "price": 22.42
+ },
+ {
+  "name": "Jalsha Movies HD",
+  "hd": false,
+  "number": 1326,
+  "price": 22.42
+ },
+ {
+  "name": "KTV",
+  "hd": false,
+  "number": 1541,
+  "price": 22.42
+ },
+ {
+  "name": "KTV HD",
+  "hd": false,
+  "number": 1540,
+  "price": 22.42
+ },
+ {
+  "name": "Movies Now HD",
+  "hd": false,
+  "number": 420,
+  "price": 22.42
+ },
+ {
+  "name": "Asianet Movies",
+  "hd": false,
+  "number": 1828,
+  "price": 22.42
+ },
+ {
+  "name": "Star Gold",
+  "hd": false,
+  "number": 310,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Cinema",
+  "hd": false,
+  "number": 321,
+  "price": 22.42
+ },
+ {
+  "name": "Star Movies",
+  "hd": false,
+  "number": 403,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Max HD",
+  "hd": false,
+  "number": 312,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Max",
+  "hd": false,
+  "number": 314,
+  "price": 22.42
+ },
+ {
+  "name": "Sony PIX HD",
+  "hd": false,
+  "number": 406,
+  "price": 22.42
+ },
+ {
+  "name": "Star Gold HD",
+  "hd": false,
+  "number": 308,
+  "price": 22.42
+ },
+ {
+  "name": "Star Maa Movies",
+  "hd": false,
+  "number": 1433,
+  "price": 22.42
+ },
+ {
+  "name": "Star Maa Movies HD",
+  "hd": false,
+  "number": 1432,
+  "price": 22.42
+ },
+ {
+  "name": "Star Movies HD",
+  "hd": false,
+  "number": 402,
+  "price": 22.42
+ },
+ {
+  "name": "Star Movies Select HD",
+  "hd": false,
+  "number": 418,
+  "price": 22.42
+ },
+ {
+  "name": "Sun Gemini Movies",
+  "hd": false,
+  "number": 1431,
+  "price": 22.42
+ },
+ {
+  "name": "Sun Gemini Movies HD",
+  "hd": false,
+  "number": 1430,
+  "price": 22.42
+ },
+ {
+  "name": "Sun Udaya Movies",
+  "hd": false,
+  "number": 1626,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Cinema HD",
+  "hd": false,
+  "number": 319,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Cinemalu HD",
+  "hd": false,
+  "number": 1437,
+  "price": 22.42
+ },
+ {
+  "name": "Zee Talkies HD",
+  "hd": false,
+  "number": 1225,
+  "price": 22.42
+ },
+ {
+  "name": "DD Sports HD",
+  "hd": false,
+  "number": 452,
+  "price": 0.0
+ },
+ {
+  "name": "DD Sports",
+  "hd": false,
+  "number": 453,
+  "price": 0.0
+ },
+ {
+  "name": "Star Sports Khel",
+  "hd": false,
+  "number": 491,
+  "price": 1.18
+ },
+ {
+  "name": "Eurosport",
+  "hd": false,
+  "number": 490,
+  "price": 5.9
+ },
+ {
+  "name": "Eurosport HD",
+  "hd": false,
+  "number": 489,
+  "price": 8.26
+ },
+ {
+  "name": "Star Sports Select 2",
+  "hd": false,
+  "number": 488,
+  "price": 11.8
+ },
+ {
+  "name": "Star Sports Select 2 HD",
+  "hd": false,
+  "number": 487,
+  "price": 17.7
+ },
+ {
+  "name": "Star Sports 2",
+  "hd": false,
+  "number": 457,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Sports TEN 4 Telugu",
+  "hd": false,
+  "number": 1450,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Sports Ten 1",
+  "hd": false,
+  "number": 471,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Sports Ten 2",
+  "hd": false,
+  "number": 474,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Sports Ten 3 Hindi",
+  "hd": false,
+  "number": 476,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Sports Ten 4 Kannada",
+  "hd": false,
+  "number": 1649,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Sports Ten 4 Tamil",
+  "hd": false,
+  "number": 1551,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Sports Ten 5",
+  "hd": false,
+  "number": 484,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 1 HD",
+  "hd": false,
+  "number": 454,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 1 Kannada",
+  "hd": false,
+  "number": 1645,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 1",
+  "hd": false,
+  "number": 455,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 1 Tamil HD",
+  "hd": false,
+  "number": 1547,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 1 Tamil",
+  "hd": false,
+  "number": 1548,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 1 Telugu",
+  "hd": false,
+  "number": 1446,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 1 Telugu HD",
+  "hd": false,
+  "number": 1445,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 2 HD",
+  "hd": false,
+  "number": 456,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 2 Hindi",
+  "hd": false,
+  "number": 462,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 2 Hindi HD",
+  "hd": false,
+  "number": 461,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 2 Kannada",
+  "hd": false,
+  "number": 1647,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 2 Tamil HD",
+  "hd": false,
+  "number": 1552,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 2 Tamil",
+  "hd": false,
+  "number": 1553,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 2 Telugu HD",
+  "hd": false,
+  "number": 1447,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 2 Telugu",
+  "hd": false,
+  "number": 1448,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 3",
+  "hd": false,
+  "number": 458,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 1 Hindi HD",
+  "hd": false,
+  "number": 459,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports 1 Hindi",
+  "hd": false,
+  "number": 460,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports Select 1",
+  "hd": false,
+  "number": 466,
+  "price": 22.42
+ },
+ {
+  "name": "Star Sports Select 1 HD",
+  "hd": false,
+  "number": 465,
+  "price": 22.42
+ },
+ {
+  "name": "Sony Sports Ten 5 HD",
+  "hd": false,
+  "number": 483,
+  "price": 35.4
+ },
+ {
+  "name": "Sony Sports Ten 1 HD",
+  "hd": false,
+  "number": 470,
+  "price": 35.4
+ },
+ {
+  "name": "Sony Sports Ten 2 HD",
+  "hd": false,
+  "number": 473,
+  "price": 35.4
+ },
+ {
+  "name": "Sony Sports Ten 3 Hindi HD",
+  "hd": false,
+  "number": 475,
+  "price": 35.4
+ },
+ {
+  "name": "Aadinath TV",
+  "hd": false,
+  "number": 1086,
+  "price": 0.0
+ },
+ {
+  "name": "Aastha",
+  "hd": false,
+  "number": 1055,
+  "price": 0.0
+ },
+ {
+  "name": "Angel TV",
+  "hd": false,
+  "number": 1591,
+  "price": 0.0
+ },
+ {
+  "name": "Aradana TV",
+  "hd": false,
+  "number": 1492,
+  "price": 0.0
+ },
+ {
+  "name": "Awakening",
+  "hd": false,
+  "number": 1084,
+  "price": 0.0
+ },
+ {
+  "name": "Bhakti TV",
+  "hd": false,
+  "number": 1490,
+  "price": 0.0
+ },
+ {
+  "name": "Dharm Sandesh",
+  "hd": false,
+  "number": 1067,
+  "price": 0.0
+ },
+ {
+  "name": "Divya",
+  "hd": false,
+  "number": 1083,
+  "price": 0.0
+ },
+ {
+  "name": "Divyavani TV",
+  "hd": false,
+  "number": 1493,
+  "price": 0.0
+ },
+ {
+  "name": "God TV",
+  "hd": false,
+  "number": 1886,
+  "price": 0.0
+ },
+ {
+  "name": "Goodness",
+  "hd": false,
+  "number": 1885,
+  "price": 0.0
+ },
+ {
+  "name": "Hare Krsna",
+  "hd": false,
+  "number": 1089,
+  "price": 0.0
+ },
+ {
+  "name": "Harvest TV 24x7",
+  "hd": false,
+  "number": 1888,
+  "price": 0.0
+ },
+ {
+  "name": "Hindu Dharmam",
+  "hd": false,
+  "number": 1494,
+  "price": 0.0
+ },
+ {
+  "name": "Ishwar TV",
+  "hd": false,
+  "number": 1068,
+  "price": 0.0
+ },
+ {
+  "name": "Jinvani Channel",
+  "hd": false,
+  "number": 1066,
+  "price": 0.0
+ },
+ {
+  "name": "MH One Shraddha",
+  "hd": false,
+  "number": 1061,
+  "price": 0.0
+ },
+ {
+  "name": "Madha TV",
+  "hd": false,
+  "number": 1590,
+  "price": 0.0
+ },
+ {
+  "name": "Paras Gold One",
+  "hd": false,
+  "number": 1059,
+  "price": 0.0
+ },
+ {
+  "name": "Pasand",
+  "hd": false,
+  "number": 1122,
+  "price": 0.0
+ },
+ {
+  "name": "Peace of Mind",
+  "hd": false,
+  "number": 1065,
+  "price": 0.0
+ },
+ {
+  "name": "SHALOM TV",
+  "hd": false,
+  "number": 1887,
+  "price": 0.0
+ },
+ {
+  "name": "SVBC 2",
+  "hd": false,
+  "number": 1599,
+  "price": 0.0
+ },
+ {
+  "name": "SVBC 3",
+  "hd": false,
+  "number": 1698,
+  "price": 0.0
+ },
+ {
+  "name": "SVBC",
+  "hd": false,
+  "number": 1499,
+  "price": 0.0
+ },
+ {
+  "name": "Sadhna TV",
+  "hd": false,
+  "number": 1063,
+  "price": 0.0
+ },
+ {
+  "name": "Sanskar",
+  "hd": false,
+  "number": 1057,
+  "price": 0.0
+ },
+ {
+  "name": "Santwani",
+  "hd": false,
+  "number": 1085,
+  "price": 0.0
+ },
+ {
+  "name": "Satsang TV",
+  "hd": false,
+  "number": 1073,
+  "price": 0.0
+ },
+ {
+  "name": "Sharnam TV",
+  "hd": false,
+  "number": 1064,
+  "price": 0.0
+ },
+ {
+  "name": "Shree Disha Bhakti",
+  "hd": false,
+  "number": 1092,
+  "price": 0.0
+ },
+ {
+  "name": "Shubh TV",
+  "hd": false,
+  "number": 1074,
+  "price": 0.0
+ },
+ {
+  "name": "Sri Sankara TV",
+  "hd": false,
+  "number": 1685,
+  "price": 0.0
+ },
+ {
+  "name": "Shubhavaarta TV",
+  "hd": false,
+  "number": 1491,
+  "price": 0.0
+ },
+ {
+  "name": "Prarthana Life",
+  "hd": false,
+  "number": 1795,
+  "price": 3.54
+ },
+ {
+  "name": "Jay Jagannath",
+  "hd": false,
+  "number": 1799,
+  "price": 5.9
+ },
+ {
+  "name": "Sidharth UTSAV",
+  "hd": false,
+  "number": 1796,
+  "price": 5.9
+ },
+ {
+  "name": "Jothi TV",
+  "hd": false,
+  "number": 1587,
+  "price": 8.26
+ },
+ {
+  "name": "Ayush TV",
+  "hd": false,
+  "number": 1686,
+  "price": 0.0
+ },
+ {
+  "name": "DD Gyan Darshan",
+  "hd": false,
+  "number": 755,
+  "price": 0.0
+ },
+ {
+  "name": "Fashion TV",
+  "hd": false,
+  "number": 772,
+  "price": 0.0
+ },
+ {
+  "name": "Food Food",
+  "hd": false,
+  "number": 768,
+  "price": 0.0
+ },
+ {
+  "name": "Safari TV",
+  "hd": false,
+  "number": 1838,
+  "price": 0.0
+ },
+ {
+  "name": "Discovery Science",
+  "hd": false,
+  "number": 719,
+  "price": 1.18
+ },
+ {
+  "name": "Foodxp",
+  "hd": false,
+  "number": 771,
+  "price": 1.77
+ },
+ {
+  "name": "Discovery Turbo",
+  "hd": false,
+  "number": 764,
+  "price": 1.18
+ },
+ {
+  "name": "Good Times",
+  "hd": false,
+  "number": 762,
+  "price": 1.77
+ },
+ {
+  "name": "TravelXP Tamil",
+  "hd": false,
+  "number": 1555,
+  "price": 1.77
+ },
+ {
+  "name": "Zee Zest",
+  "hd": false,
+  "number": 770,
+  "price": 1.18
+ },
+ {
+  "name": "ETV Life",
+  "hd": false,
+  "number": 1451,
+  "price": 2.36
+ },
+ {
+  "name": "Nat Geo Wild",
+  "hd": false,
+  "number": 712,
+  "price": 2.36
+ },
+ {
+  "name": "Animal Planet",
+  "hd": false,
+  "number": 717,
+  "price": 2.36
+ },
+ {
+  "name": "TLC",
+  "hd": false,
+  "number": 760,
+  "price": 2.36
+ },
+ {
+  "name": "HISTORY TV18",
+  "hd": false,
+  "number": 721,
+  "price": 3.54
+ },
+ {
+  "name": "National Geographic",
+  "hd": false,
+  "number": 709,
+  "price": 3.54
+ },
+ {
+  "name": "Sony BBC Earth",
+  "hd": false,
+  "number": 725,
+  "price": 3.54
+ },
+ {
+  "name": "TLC HD",
+  "hd": false,
+  "number": 759,
+  "price": 3.54
+ },
+ {
+  "name": "Travelxp",
+  "hd": false,
+  "number": 766,
+  "price": 3.54
+ },
+ {
+  "name": "D Tamil",
+  "hd": false,
+  "number": 1521,
+  "price": 4.13
+ },
+ {
+  "name": "ETV Music",
+  "hd": false,
+  "number": 1488,
+  "price": 4.72
+ },
+ {
+  "name": "Discovery Channel",
+  "hd": false,
+  "number": 714,
+  "price": 4.72
+ },
+ {
+  "name": "Animal Planet HD",
+  "hd": false,
+  "number": 716,
+  "price": 5.9
+ },
+ {
+  "name": "Epic",
+  "hd": false,
+  "number": 735,
+  "price": 5.9
+ },
+ {
+  "name": "History TV18 HD",
+  "hd": false,
+  "number": 720,
+  "price": 8.26
+ },
+ {
+  "name": "Sun Gemini Life",
+  "hd": false,
+  "number": 1415,
+  "price": 8.26
+ },
+ {
+  "name": "Nat Geo Wild HD",
+  "hd": false,
+  "number": 711,
+  "price": 9.44
+ },
+ {
+  "name": "TravelXP HD",
+  "hd": false,
+  "number": 765,
+  "price": 10.62
+ },
+ {
+  "name": "Discovery HD World",
+  "hd": false,
+  "number": 713,
+  "price": 11.8
+ },
+ {
+  "name": "Zee Zest HD",
+  "hd": false,
+  "number": 769,
+  "price": 11.8
+ },
+ {
+  "name": "Sun Life",
+  "hd": false,
+  "number": 1506,
+  "price": 14.16
+ },
+ {
+  "name": "National Geographic HD",
+  "hd": false,
+  "number": 708,
+  "price": 16.52
+ },
+ {
+  "name": "Sony BBC Earth HD",
+  "hd": false,
+  "number": 724,
+  "price": 22.42
+ },
+ {
+  "name": "B4U Music",
+  "hd": false,
+  "number": 822,
+  "price": 0.0
+ },
+ {
+  "name": "EPIC Music",
+  "hd": false,
+  "number": 835,
+  "price": 0.0
+ },
+ {
+  "name": "MH One",
+  "hd": false,
+  "number": 1907,
+  "price": 0.0
+ },
+ {
+  "name": "PTC Chak De",
+  "hd": false,
+  "number": 1942,
+  "price": 0.0
+ },
+ {
+  "name": "PTC Music",
+  "hd": false,
+  "number": 1943,
+  "price": 0.0
+ },
+ {
+  "name": "PTC Simran",
+  "hd": false,
+  "number": 1946,
+  "price": 0.0
+ },
+ {
+  "name": "Public Music",
+  "hd": false,
+  "number": 1677,
+  "price": 0.0
+ },
+ {
+  "name": "RAJ MUSIX KANNADA",
+  "hd": false,
+  "number": 1674,
+  "price": 0.0
+ },
+ {
+  "name": "Raj Musix Malayalam",
+  "hd": false,
+  "number": 1877,
+  "price": 0.0
+ },
+ {
+  "name": "Raj Musix Telugu",
+  "hd": false,
+  "number": 1487,
+  "price": 0.0
+ },
+ {
+  "name": "Ramdhenu",
+  "hd": false,
+  "number": 1990,
+  "price": 0.0
+ },
+ {
+  "name": "9XM",
+  "hd": false,
+  "number": 809,
+  "price": 0.0
+ },
+ {
+  "name": "Sangeet Bangla",
+  "hd": false,
+  "number": 1380,
+  "price": 0.0
+ },
+ {
+  "name": "Sangeet Marathi",
+  "hd": false,
+  "number": 1277,
+  "price": 0.0
+ },
+ {
+  "name": "V6 Telugu",
+  "hd": false,
+  "number": 1463,
+  "price": 0.0
+ },
+ {
+  "name": "Zing",
+  "hd": false,
+  "number": 826,
+  "price": 0.12
+ },
+ {
+  "name": "Zoom",
+  "hd": false,
+  "number": 811,
+  "price": 0.59
+ },
+ {
+  "name": "Raj Musix",
+  "hd": false,
+  "number": 1582,
+  "price": 1.65
+ },
+ {
+  "name": "Jaya Max",
+  "hd": false,
+  "number": 1581,
+  "price": 2.66
+ },
+ {
+  "name": "Mega Musiq",
+  "hd": false,
+  "number": 1586,
+  "price": 2.36
+ },
+ {
+  "name": "Tarang Music",
+  "hd": false,
+  "number": 1786,
+  "price": 2.36
+ },
+ {
+  "name": "Vijay Takkar",
+  "hd": false,
+  "number": 1583,
+  "price": 2.36
+ },
+ {
+  "name": "Isaiaruvi",
+  "hd": false,
+  "number": 1584,
+  "price": 4.72
+ },
+ {
+  "name": "Sun Gemini Music",
+  "hd": false,
+  "number": 1484,
+  "price": 4.72
+ },
+ {
+  "name": "Sun Surya Music",
+  "hd": false,
+  "number": 1875,
+  "price": 4.72
+ },
+ {
+  "name": "MTV",
+  "hd": false,
+  "number": 807,
+  "price": 5.9
+ },
+ {
+  "name": "Star Maa Music",
+  "hd": false,
+  "number": 1486,
+  "price": 5.9
+ },
+ {
+  "name": "Sun Music",
+  "hd": false,
+  "number": 1580,
+  "price": 7.08
+ },
+ {
+  "name": "Sun Udaya Music",
+  "hd": false,
+  "number": 1673,
+  "price": 7.08
+ },
+ {
+  "name": "MTV HD",
+  "hd": false,
+  "number": 806,
+  "price": 9.44
+ },
+ {
+  "name": "Murasu TV",
+  "hd": false,
+  "number": 1585,
+  "price": 14.16
+ },
+ {
+  "name": "Sun Gemini Music HD",
+  "hd": false,
+  "number": 1483,
+  "price": 22.42
+ },
+ {
+  "name": "Sun Music HD",
+  "hd": false,
+  "number": 1579,
+  "price": 22.42
+ },
+ {
+  "name": "Unique TV",
+  "hd": false,
+  "number": 696,
+  "price": 0.0
+ },
+ {
+  "name": "Nick Jr",
+  "hd": false,
+  "number": 685,
+  "price": 1.18
+ },
+ {
+  "name": "Hungama",
+  "hd": false,
+  "number": 652,
+  "price": 2.36
+ },
+ {
+  "name": "Sonic",
+  "hd": false,
+  "number": 674,
+  "price": 2.36
+ },
+ {
+  "name": "CBeeBies",
+  "hd": false,
+  "number": 687,
+  "price": 3.54
+ },
+ {
+  "name": "Discovery Kids",
+  "hd": false,
+  "number": 672,
+  "price": 4.72
+ },
+ {
+  "name": "Disney Junior",
+  "hd": false,
+  "number": 686,
+  "price": 4.72
+ },
+ {
+  "name": "ETV Bal Bharat",
+  "hd": false,
+  "number": 680,
+  "price": 4.72
+ },
+ {
+  "name": "Kushi TV",
+  "hd": false,
+  "number": 692,
+  "price": 4.72
+ },
+ {
+  "name": "Super Hungama",
+  "hd": false,
+  "number": 655,
+  "price": 4.72
+ },
+ {
+  "name": "EPIC Kids",
+  "hd": false,
+  "number": 678,
+  "price": 5.9
+ },
+ {
+  "name": "Cartoon Network",
+  "hd": false,
+  "number": 667,
+  "price": 5.9
+ },
+ {
+  "name": "Pogo",
+  "hd": false,
+  "number": 670,
+  "price": 5.9
+ },
+ {
+  "name": "Chintu TV",
+  "hd": false,
+  "number": 694,
+  "price": 7.08
+ },
+ {
+  "name": "Chutti TV",
+  "hd": false,
+  "number": 693,
+  "price": 7.08
+ },
+ {
+  "name": "ETV Bal Bharat HD",
+  "hd": false,
+  "number": 679,
+  "price": 7.08
+ },
+ {
+  "name": "Kochu TV",
+  "hd": false,
+  "number": 695,
+  "price": 7.08
+ },
+ {
+  "name": "SONY YAY",
+  "hd": false,
+  "number": 676,
+  "price": 7.08
+ },
+ {
+  "name": "Cartoon Network HD+",
+  "hd": false,
+  "number": 666,
+  "price": 8.26
+ },
+ {
+  "name": "Disney",
+  "hd": false,
+  "number": 658,
+  "price": 14.16
+ },
+ {
+  "name": "Disney Channel HD",
+  "hd": false,
+  "number": 657,
+  "price": 20.06
+ },
+ {
+  "name": "Nick HD+",
+  "hd": false,
+  "number": 662,
+  "price": 22.42
+ },
+ {
+  "name": "Nick",
+  "hd": false,
+  "number": 663,
+  "price": 22.42
+ },
+ {
+  "name": "ASOM LIVE 24",
+  "hd": false,
+  "number": 1980,
+  "price": 0.0
+ },
+ {
+  "name": "Assam Talks",
+  "hd": false,
+  "number": 1983,
+  "price": 0.0
+ },
+ {
+  "name": "Calvary TV",
+  "hd": false,
+  "number": 1495,
+  "price": 0.0
+ },
+ {
+  "name": "DD Kashir",
+  "hd": false,
+  "number": 1989,
+  "price": 0.0
+ },
+ {
+  "name": "DD North East",
+  "hd": false,
+  "number": 1988,
+  "price": 0.0
+ },
+ {
+  "name": "DD Urdu",
+  "hd": false,
+  "number": 1199,
+  "price": 0.0
+ },
+ {
+  "name": "Hornbill TV",
+  "hd": false,
+  "number": 1978,
+  "price": 0.0
+ },
+ {
+  "name": "Nepal 1",
+  "hd": false,
+  "number": 1951,
+  "price": 0.0
+ },
+ {
+  "name": "Salaam TV",
+  "hd": false,
+  "number": 1192,
+  "price": 0.12
+ },
+ {
+  "name": "Channel WIN",
+  "hd": false,
+  "number": 1193,
+  "price": 0.0
+ },
+ {
+  "name": "Raj Nagaichuvai",
+  "hd": false,
+  "number": 1588,
+  "price": 1.77
+ }
+]
