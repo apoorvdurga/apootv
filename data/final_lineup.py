@@ -62,6 +62,10 @@ OFFICIAL_OVERRIDES = {
     "Aaj Tak":      "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "NDTV 24x7":    "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
     "NDTV India":   "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8",
+    # captured off the broadcaster's own live page; the token-free 1080p
+    # variant of the ladder, so no expiry to chase
+    "Zee News":     "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
+    "WION":         "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
 }
 
 curated = json.load(open("channels.curated71.json"))
